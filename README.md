@@ -3,4 +3,4 @@ A simple game where 2 squares appear on the screen, if you click the green one, 
 --------------------------------------------------------------------------------------------------------------------------------
 All code written by https://github.com/Soureus
 --------------------------------------------------------------------------------------------------------------------------------
-to run the game open the Click The Squares.jar file
+to run the game open the "Click The Squares.jar" file
